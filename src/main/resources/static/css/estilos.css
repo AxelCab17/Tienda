@@ -1,0 +1,15 @@
+#tituloprincipal{
+    color: blue;
+    font-size: 30px;
+    font-family: cursive;
+}
+.parrafosEjemplo{
+    color: blueviolet;
+    font-weight: bold;
+}
+.parrafosSecundario{
+    color: blue;
+}
+p{
+    color: brown;
+}
